@@ -1,0 +1,5 @@
+apache-airflow
+tweepy
+boto3
+python-dotenv
+pandas
